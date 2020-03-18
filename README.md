@@ -40,4 +40,4 @@ pod install
 **3. Start iOS Simulator:**
 ```
 react-native run-ios
-```
+```# redux-example
